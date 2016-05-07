@@ -1,0 +1,28 @@
+name: Blossom Benedict
+favicon: null
+layout_spectrum: 0.5984710170887411
+typography_spectrum: 0.5535197188146412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9963458159472793
+  lightness: 0.1244466861244291
+  saturation: 0.8448215145617723
+  rhythmicContrast: 0.10484784003347158
+purpose: []
